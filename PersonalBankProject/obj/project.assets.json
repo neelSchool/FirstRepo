@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/neelm/PersonalBankProject/PersonalBankProject.csproj",
+      "projectUniqueName": "/home/neelm/Documents/GitHub/FirstRepo/PersonalBankProject/PersonalBankProject.csproj",
       "projectName": "PersonalBankProject",
-      "projectPath": "/home/neelm/PersonalBankProject/PersonalBankProject.csproj",
+      "projectPath": "/home/neelm/Documents/GitHub/FirstRepo/PersonalBankProject/PersonalBankProject.csproj",
       "packagesPath": "/home/neelm/.nuget/packages/",
-      "outputPath": "/home/neelm/PersonalBankProject/obj/",
+      "outputPath": "/home/neelm/Documents/GitHub/FirstRepo/PersonalBankProject/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/neelm/.nuget/NuGet/NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.114/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.115/RuntimeIdentifierGraph.json"
       }
     }
   }

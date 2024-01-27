@@ -1,0 +1,15 @@
+/home/neelm/Documents/GitHub/FirstRepo/PersonalBankProject/bin/Debug/net7.0/PersonalBankProject
+/home/neelm/Documents/GitHub/FirstRepo/PersonalBankProject/bin/Debug/net7.0/PersonalBankProject.deps.json
+/home/neelm/Documents/GitHub/FirstRepo/PersonalBankProject/bin/Debug/net7.0/PersonalBankProject.runtimeconfig.json
+/home/neelm/Documents/GitHub/FirstRepo/PersonalBankProject/bin/Debug/net7.0/PersonalBankProject.dll
+/home/neelm/Documents/GitHub/FirstRepo/PersonalBankProject/bin/Debug/net7.0/PersonalBankProject.pdb
+/home/neelm/Documents/GitHub/FirstRepo/PersonalBankProject/obj/Debug/net7.0/PersonalBankProject.csproj.AssemblyReference.cache
+/home/neelm/Documents/GitHub/FirstRepo/PersonalBankProject/obj/Debug/net7.0/PersonalBankProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/neelm/Documents/GitHub/FirstRepo/PersonalBankProject/obj/Debug/net7.0/PersonalBankProject.AssemblyInfoInputs.cache
+/home/neelm/Documents/GitHub/FirstRepo/PersonalBankProject/obj/Debug/net7.0/PersonalBankProject.AssemblyInfo.cs
+/home/neelm/Documents/GitHub/FirstRepo/PersonalBankProject/obj/Debug/net7.0/PersonalBankProject.csproj.CoreCompileInputs.cache
+/home/neelm/Documents/GitHub/FirstRepo/PersonalBankProject/obj/Debug/net7.0/PersonalBankProject.dll
+/home/neelm/Documents/GitHub/FirstRepo/PersonalBankProject/obj/Debug/net7.0/refint/PersonalBankProject.dll
+/home/neelm/Documents/GitHub/FirstRepo/PersonalBankProject/obj/Debug/net7.0/PersonalBankProject.pdb
+/home/neelm/Documents/GitHub/FirstRepo/PersonalBankProject/obj/Debug/net7.0/PersonalBankProject.genruntimeconfig.cache
+/home/neelm/Documents/GitHub/FirstRepo/PersonalBankProject/obj/Debug/net7.0/ref/PersonalBankProject.dll
